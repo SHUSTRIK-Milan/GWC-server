@@ -1,6 +1,7 @@
 # **GWebcam (GWC-server)**
 
-GWebcam addon allows players to stream their webcams to others on the server. This README will guide you through installation, usage, and developer instructions.
+GWC-server is a webcam streaming server for the GWebcam addon in Garry's Mod.
+Since Gmod’s default functionality doesn’t allow this, well… we had to extend it!
 
 ---
 
